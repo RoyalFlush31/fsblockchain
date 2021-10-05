@@ -6,6 +6,7 @@
 1. Complete the full course: https://cryptozombies.io/
 2. Think about a smart contract you want to write. If you have no ideas, tell me and I'll provide you with an idea.
 3. Upload the smart contract that you've written at the assignments folder including your prename (f.e. "Jeffrey.sol"). I'll give you feedback!
+(4. Optional: If you are already a solidity expert, read and understand Assembly and include it in your smart contract: https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c)
 
 ### Python:
 1. Read and understand the documentation about the Python Web3 library: https://web3py.readthedocs.io/en/stable/contracts.html
