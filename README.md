@@ -1,6 +1,6 @@
 # FS Blockchain Coding WS21
 
-Tasks until 31.10.2021:
+<p>Tasks until 31.10.2021:</p>
 
 Solidity:
 1. Complete the complete course: https://cryptozombies.io/
