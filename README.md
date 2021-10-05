@@ -10,4 +10,4 @@ Solidity:
 Python:
 1. Read and understand the documentation about the Python Web3 library: https://web3py.readthedocs.io/en/stable/contracts.html
 2. Write a python file that deploys your smart contract.
-3. Write a python file that interacts with your smart contract (that can calls its functions).
+3. Write a python file that interacts with your smart contract (that calls its functions).
