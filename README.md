@@ -1,6 +1,6 @@
 # FS Blockchain Coding WS21
 
-<p>Tasks until 31.10.2021:</p>
+## Tasks until 31.10.2021:
 
 Solidity:
 1. Complete the complete course: https://cryptozombies.io/
@@ -12,4 +12,4 @@ Python:
 2. Write a python file that deploys your smart contract.
 3. Write a python file that interacts with your smart contract (that calls its functions).
 
-After you have finished all tasks, choose/submit an idea here: https://www.surveymonkey.de/r/7TS57FK
+### After you have finished all tasks, choose/submit an idea here: https://www.surveymonkey.de/r/7TS57FK
